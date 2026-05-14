@@ -13,9 +13,8 @@ I’m currently working on: Customer Segmentation & Predictive Analysis for B2C 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MISHREE-RAVAL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MISHREE-RAVAL&theme=onedark&column=3&margin-w=15&filter=committer,stars,multiple_language)](https://github.com/ryo-ma/github-profile-trophy)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MISHREE-RAVAL&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MISHREE-RAVAL&theme=onedark&column=3&margin-w=15&filter=committer,multiple_language,repo)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=MISHREE-RAVAL&icon=0&color=0)](https://visitcount.itsvg.in)
