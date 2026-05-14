@@ -16,7 +16,3 @@ I’m currently working on: Customer Segmentation & Predictive Analysis for B2C 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MISHREE-RAVAL&theme=onedark&column=3&margin-w=15&filter=committer,multiple_language,repo)](https://github.com/ryo-ma/github-profile-trophy)
 
 
----
-[![](https://komarev.com/ghpvc/?username=MISHREE-RAVAL&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
